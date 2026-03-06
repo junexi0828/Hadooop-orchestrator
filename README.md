@@ -5,6 +5,14 @@
 
 ---
 
+<img width="1469" height="926" alt="image" src="https://github.com/user-attachments/assets/a13cd2a9-8336-40ea-a480-58850fc00fed" />
+<img width="1007" height="326" alt="image" src="https://github.com/user-attachments/assets/8bf7f08c-fa0d-45dc-81db-fdcc7fd680ef" />
+저<img width="978" height="405" alt="image" src="https://github.com/user-attachments/assets/2e0c42d9-1156-43b6-a236-f24beb89397b" />
+<img width="1436" height="856" alt="image" src="https://github.com/user-attachments/assets/6f8fae8e-feec-423a-89a0-227081803c8d" />
+<img width="1442" height="848" alt="image" src="https://github.com/user-attachments/assets/b40c5462-344b-4447-9051-fb8a242858dd" />
+<img width="1461" height="852" alt="image" src="https://github.com/user-attachments/assets/2842bd75-8840-4e79-a661-1d5891885dad" />
+
+
 ## 📋 프로젝트 개요
 
 PICU는 **2-Tier 아키텍처**를 기반으로 한 분산 데이터 파이프라인 시스템입니다.
